@@ -111,7 +111,7 @@ After the script finishes, open `Assignment_1_Test_Cases.xlsx`:
 ```
 IT23284302/
 ├── test_automation.py            # Main Playwright automation script
-├── Assignment_1_Test_Cases.xlsx  # Test cases (input, expected, actual, status)
+├── Assignment_1_Test_Cases.xlsx  # Test cases (input, expected, actual, status, Singlish input types covered, Evidence or rationale for the input type covered)
 └── README.md                     # This file
 ```
 

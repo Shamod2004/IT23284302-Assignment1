@@ -30,7 +30,7 @@ A total of **50 negative test cases** are tested, covering all 24 Singlish input
 **Step 1 — Clone or download this repository**
 
 ```
-git clone <your-repo-url>
+git clone https://github.com/Shamod2004/IT23284302-Assignment1.git
 ```
 Or download and extract the ZIP file.
 

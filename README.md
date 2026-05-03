@@ -1,7 +1,7 @@
 # Assignment 1 - Singlish to Sinhala Transliteration Testing
 
 **Module:** IT3040 – IT Project Management  
-**Year:** 3 | **Semester:** 1  
+**Year:** 3 | **Semester:** 2 
 **Student:** IT23284302  
 
 ---

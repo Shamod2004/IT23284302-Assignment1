@@ -63,6 +63,13 @@ Open Command Prompt, navigate to the project folder, and run:
 python test_automation.py --excel "Assignment_1_Test_Cases.xlsx" --sheet "Assignment 1 Test Cases" --url "https://www.pixelssuite.com/chat-translator" --wait-ms 20000 --type-delay-ms 80 --slow-mo-ms 200 --save-every 1
 ```
 
+> **Note:** If the files have been renamed with the registration number prefix (e.g. `IT23284302_test_automation.py`), update the command accordingly:
+> ```
+> python IT23284302_test_automation.py --excel "IT23284302_Assignment_1_Test_Cases.xlsx" --sheet "Assignment 1 Test Cases" --url "https://www.pixelssuite.com/chat-translator" --wait-ms 20000 --type-delay-ms 80 --slow-mo-ms 200 --save-every 1
+> ```
+
+
+
 **What happens when you run it:**
 - A Chrome browser window opens automatically
 - The script loads the chat-translator page
